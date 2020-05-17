@@ -240,7 +240,7 @@ li {
 }
 .del {
   padding: 20px 40px;
-  background: #c82022;
+  background: #770b1e;
   border: none;
   color: #ffffff;
   font-weight: 700;

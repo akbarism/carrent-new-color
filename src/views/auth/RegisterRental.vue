@@ -202,7 +202,7 @@ export default {
 .changemail{
   background: none;
   border: none;
-  color: #c82022;
+  color: #770b1e;
   outline: none;
   margin-left: 10px;
 }
@@ -251,13 +251,13 @@ export default {
 }
 .alertdiv a{
   text-decoration: none;
-  color: #c82022;
+  color: #770b1e;
 }
 .color-green{
   border: 2px solid #12C200;
 }
 .color-red{
-  border: 2px solid #c82022;
+  border: 2px solid #770b1e;
 }
 .alert {
   font-size: 15px;

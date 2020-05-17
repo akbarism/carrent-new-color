@@ -23,7 +23,7 @@ export default {
   h1 {
     text-align: center;
     letter-spacing: 20px;
-    color: #c82022;
+    color: #770b1e;
     font-size: 20em;
     margin: 0;
   }
